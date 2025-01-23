@@ -1,6 +1,7 @@
-# Hi there, I'm xxefi! 👋
+# Hi there, I'm Efi! 👋
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 🚀 I'm a passionate developer from [Azerbaijan]
+
 
 ---
 
