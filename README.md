@@ -1,7 +1,7 @@
-# Hi there, I'm Efi! 👋
+# Hi there, I'm xxefi! 👋
 
-Welcome to my GitHub profile! 🚀 I'm a passionate developer from [Azerbaijan]
-
+Welcome to my GitHub profile! I'm a passionate developer from Azerbaijan! 🚀  
+![Azerbaijan Flag](https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Azerbaijan.gif)  
 
 ---
 
