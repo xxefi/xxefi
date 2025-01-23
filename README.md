@@ -1,6 +1,6 @@
 # Hi there, I'm Afgan! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Azerbaijan! 🚀  
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Azerbaijan, but you can also call me **Efi**! 🚀  
 Although I specialize in **backend development**, I enjoy working on both **frontend** and **backend** to create complete and scalable applications. 
 
 ![Azerbaijan Flag](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RoNnd1N3kzaDF3Yzc3MzVlb255dHhzbnd4ZjV0aWJnenh1eGp4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J9KiH1WaMM68r3o3Xk/giphy.gif) 
@@ -41,6 +41,12 @@ My goal is to start deploying projects soon and sharing them with the community!
 - 💬 LinkedIn: [https://www.linkedin.com/in/afqan-maqsudlu-313a08301/]
 
 ---
+
+## 🌍 Languages I Speak
+- 🇦🇿 Azerbaijani
+- 🇷🇺 Russian
+- 🇺🇸 English
+- 🇹🇷 Turkish
 
 
 Feel free to explore my repositories, contribute to projects, or connect with me for collaboration. Happy coding! 🚀
