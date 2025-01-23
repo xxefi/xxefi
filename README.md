@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer from Azerbaijan
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxefi&theme=radical)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xxefi&theme=radical&no-frame=true&row=1&column=7)
 
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xxefi&theme=github)
 
 ---
 
