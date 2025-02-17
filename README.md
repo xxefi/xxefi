@@ -19,21 +19,6 @@ Although I specialize in **backend development**, I enjoy working on both **fron
 
 ---
 
----
-
-## 💭 About Me
-
-Although I’ve worked on several interesting projects, I haven’t yet deployed a full-scale production-ready application.  
-I’m currently focused on learning new technologies, refining my skills, and working on building scalable and efficient systems.
-
-Some of the technologies I’m exploring right now:
-- **Backend**: ASP.NET Core, Docker, and Azure for cloud deployments.
-- **Frontend**: React and Next.js for building modern, fast user interfaces.
-- **DevOps**: Looking forward to diving deeper into CI/CD pipelines and automating deployments.
-
-My goal is to start deploying projects soon and sharing them with the community! Stay tuned! 😄
-
----
 
 ## 🌐 Connect With Me
 
